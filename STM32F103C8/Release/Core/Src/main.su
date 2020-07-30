@@ -1,0 +1,7 @@
+main.c:189:6:SystemClock_Config	72	static
+main.c:281:6:check_Din_Values	8	static
+main.c:272:6:HAL_SYSTICK_Callback	8	static
+main.c:297:11:Din_btn_LoEdge	0	static
+main.c:320:6:modoLeds	40	static
+main.c:91:5:main	56	static
+main.c:399:6:Error_Handler	0	static
